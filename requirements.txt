@@ -1,0 +1,9 @@
+numpy
+seaborn
+streamlit
+pandas
+matplotlib
+scikit-learn
+io
+PIL
+time
