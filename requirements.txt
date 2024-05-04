@@ -7,3 +7,4 @@ scikit-learn
 io
 PIL
 time
+uv
