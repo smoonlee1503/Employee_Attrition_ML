@@ -4,5 +4,5 @@ streamlit
 pandas
 matplotlib
 scikit-learn
-PIL
+pillow
 time
